@@ -39,14 +39,14 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Quick start',
+      label: 'API',
       link: {
         type: 'generated-index',
-        title: 'Quick start',
+        title: 'API',
         slug: '/api',
       },
       items: [
-        'pages/example',
+        'api/index',
       ]
     },
   ],
@@ -61,7 +61,7 @@ const sidebars = {
       label: 'Mirary types',
       link: {
         type: 'generated-index',
-        title: 'Quick start',
+        title: 'Mirary types',
         slug: '/dev',
       },
       items: [

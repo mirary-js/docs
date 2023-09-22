@@ -106,7 +106,7 @@ const config = {
             title: 'mirary',
             items: [
               {
-                label: 'Guides',
+                label: 'Docs',
                 to: '/',
               },
               {
@@ -119,12 +119,12 @@ const config = {
             title: 'リンク集',
             items: [
               {
-                label: 'mirary',
-                href: 'https://example.com/',
+                label: 'Github',
+                href: 'https://github.com/mirary-js',
               },
               {
-                label: 'mirary',
-                href: 'https://example.com/',
+                label: 'Misskey-Hub',
+                href: 'https://misskey-hub.net/',
               },
             ],
           },
