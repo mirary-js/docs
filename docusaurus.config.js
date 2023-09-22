@@ -37,20 +37,6 @@ const config = {
             [require('@docusaurus/remark-plugin-npm2yarn'), {sync: true}],
           ],
         },
-        api: {
-          routeBasePath: '/api',
-          sidebarPath: require.resolve('./sidebars.js'),
-          remarkPlugins: [
-            [require('@docusaurus/remark-plugin-npm2yarn'), {sync: true}],
-          ],
-        },
-        dev: {
-          routeBasePath: '/dev',
-          sidebarPath: require.resolve('./sidebars.js'),
-          remarkPlugins: [
-            [require('@docusaurus/remark-plugin-npm2yarn'), {sync: true}],
-          ],
-        },
         blog: {
           showReadingTime: true,
           blogSidebarTitle: '記事一覧',
