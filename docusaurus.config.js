@@ -71,7 +71,7 @@ const config = {
         logo: {
           alt: 'Pace Layering',
           src: 'img/logo.svg',
-          srcDark: 'img/logo-dark.svg',
+          srcDark: 'img/logo.svg',
         },
         items: [
           {
