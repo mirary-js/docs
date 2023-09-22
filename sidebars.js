@@ -20,10 +20,10 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '固定ページ',
+      label: 'Quick start',
       link: {
         type: 'generated-index',
-        title: '固定ページ',
+        title: 'Quick start',
         slug: '/pages',
       },
       items: [
