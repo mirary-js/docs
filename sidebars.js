@@ -43,7 +43,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'API',
-        slug: '/api',
+        slug: '/pages',
       },
       items: [
         'api/index',
@@ -62,7 +62,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Mirary types',
-        slug: '/dev',
+        slug: '/pages',
       },
       items: [
         {
