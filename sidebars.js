@@ -70,7 +70,7 @@ const sidebars = {
           label: 'Entity types',
           link: {
             type: 'doc',
-            id: 'dev/types',
+            id: 'dev/types/index',
           },
           items: [
             {
