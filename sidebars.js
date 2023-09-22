@@ -35,7 +35,7 @@ const sidebars = {
   api: [
     {
       type: 'doc',
-      id: 'api/index',
+      id: 'api/example',
     },
     {
       type: 'category',
@@ -46,7 +46,7 @@ const sidebars = {
         slug: '/api',
       },
       items: [
-        'api/index',
+        'api/example',
       ]
     },
   ],
