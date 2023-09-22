@@ -1,2 +1,0 @@
-# Mirary types
-Misskeyからのレスポンスデータに対してMirary内部で定義している型一覧です。
