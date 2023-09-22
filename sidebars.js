@@ -43,7 +43,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Quick start',
-        slug: '/pages',
+        slug: '/api',
       },
       items: [
         'pages/example',
@@ -62,7 +62,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Quick start',
-        slug: '/pages',
+        slug: '/dev',
       },
       items: [
         {
