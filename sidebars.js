@@ -54,7 +54,7 @@ const sidebars = {
   dev: [
     {
       type: 'doc',
-      id: 'dev/index',
+      id: 'dev/example',
     },
     {
       type: 'category',
