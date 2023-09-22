@@ -43,7 +43,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'API',
-        slug: '/pages',
+        slug: '/api',
       },
       items: [
         'api/index',
