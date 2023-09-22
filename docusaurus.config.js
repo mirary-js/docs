@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'mirary',
         logo: {
-          alt: 'Pace Layering',
+          alt: 'mirary',
           src: 'img/logo.svg',
           srcDark: 'img/logo.svg',
         },
@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Pace Layering, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} mirary.`,
       },
       prism: {
         theme: lightCodeTheme,
