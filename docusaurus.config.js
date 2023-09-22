@@ -77,12 +77,18 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'docs',
-            label: 'Guides',
+            label: 'DOCS',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'api',
+            label: 'API',
             position: 'left',
           },
           {
             to:'/blog',
-            label: 'Blog',
+            label: 'BLOG',
             position: 'left'
           },
         ],

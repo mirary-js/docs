@@ -31,6 +31,25 @@ const sidebars = {
       ]
     },
   ],
+
+  api: [
+    {
+      type: 'doc',
+      id: 'api',
+    },
+    {
+      type: 'category',
+      label: 'Quick start',
+      link: {
+        type: 'generated-index',
+        title: 'Quick start',
+        slug: '/pages',
+      },
+      items: [
+        'pages/example',
+      ]
+    },
+  ],
 };
 
 module.exports = sidebars;
