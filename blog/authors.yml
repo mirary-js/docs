@@ -2,3 +2,8 @@ example:
   name: example
   title: example
   image_url: /img/example.webp
+
+nagicat:
+  name: nagicat
+  title: owner
+  image_url: /img/avatar-nagicat.webp
