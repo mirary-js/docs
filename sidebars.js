@@ -27,12 +27,8 @@ const sidebars = {
         slug: '/pages',
       },
       items: [
-        'pages/home',
+        'pages/example',
       ]
-    },
-    {
-      type: 'doc',
-      id: 'markdown',
     },
   ],
 };
